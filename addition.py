@@ -8,6 +8,8 @@ Created on Fri Nov 13 15:23:56 2020
 # Test python code
 import numpy
 
-a = 3+5
+a = 3+7
+
+b = 12 - 7
 
 print a
